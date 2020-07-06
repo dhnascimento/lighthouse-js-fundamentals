@@ -1,0 +1,1 @@
+console.log("this is a message\n this is another message\n etc\n");
